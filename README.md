@@ -1,9 +1,9 @@
 # Todo List App
-***
+
 Aplicación de lista de tareas utilizando Vue, Vite y Tailwindcss
 
 ## Instalación
-***
+
 ```
 $ git clone https://github.com/faviofz/todolist-vue-vite-tailwindcss.git
 $ cd todolist-vue-vite-tailwindcss
@@ -12,7 +12,7 @@ $ npm run dev
 ```
 
 ## Vista previa
-***
+
 ![](/preview.jpg)
 ![](/preview1.jpg)
 
