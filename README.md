@@ -2,6 +2,10 @@
 
 Aplicación de lista de tareas utilizando Vue, Vite y Tailwindcss
 
+## Live Demo
+
+https://faviofz-todolist.netlify.app
+
 ## Instalación
 
 ```
